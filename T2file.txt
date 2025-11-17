@@ -1,3 +1,5 @@
 this is a t2 file
 for testing 
 total 3 lines updates
+now i have updated other line 4th one
+what you can do use restore
